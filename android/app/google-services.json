@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "648433974185",
+    "project_id": "ember-connections",
+    "storage_bucket": "ember-connections.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:648433974185:android:3e53b61ca59722cc0fe2b8",
+        "android_client_info": {
+          "package_name": "com.ember.ember"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQnLn_3z07miQkjtWlt1karA-w9Rl6Pzs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
